@@ -1,0 +1,6 @@
+.dado {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 10px;
+}
